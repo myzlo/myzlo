@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Kirill
 
-<!--
-**myzlo/myzlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **DevOps / SRE engineer**
 
-Here are some ideas to get you started:
+I specialize in designing infrastructure from scratch, implementing smart monitoring solutions, and building AI-driven applications to automate and optimize operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack & Tools
+
+- **Monitoring**: Prometheus, Grafana (Cloud, OnCall), Zabbix, stor2rrd
+- **Cloud & IaC**: AWS (Certified Solutions Architect – Associate), Terraform, Ansible, Chef
+- **CI/CD**: GitHub Actions
+- **Scripting & Automation**: Python, Bash
+- **Containers & Orchestration**: Docker, Kubernetes (CKA)
+- **Networking**: Cisco, Fortinet, Huawei, Mikrotik
+- **System Administration**: Linux, Windows, VMware, SIP-telephony
+- **Other**: stor2rrd, ESET ESMC, FreePBX, CUCM
+
+
+
+<!-- Badges -->
+![Profile views](https://komarev.com/ghpvc/?username=myzlo)

@@ -2,8 +2,7 @@
 
 I'm a **DevOps / SRE engineer**
 
-I specialize in designing infrastructure from scratch, implementing smart monitoring solutions, and building AI-driven applications to automate and optimize operations.
-
+I specialize in designing infrastructure from scratch, implementing smart monitoring solutions, and building AI-driven agents
 ## 🛠 Tech Stack & Tools
 
 - **Monitoring**: Prometheus, Grafana (Cloud, OnCall), Zabbix, stor2rrd
